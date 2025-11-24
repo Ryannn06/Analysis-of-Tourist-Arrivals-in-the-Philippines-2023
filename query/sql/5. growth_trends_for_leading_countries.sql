@@ -1,4 +1,3 @@
--- Active: 1761546932084@@localhost@5432@tourism
 CREATE OR REPLACE VIEW growth_trends_for_leading_countries AS
 WITH melted_countries AS(
     SELECT country, 'january' AS month, 1 as month_order, january AS tourist_arrivals FROM leading_countries
