@@ -18,10 +18,10 @@ This project analyzes international visitor arrivals to the Philippines from **J
 
 ## <br>Objectives
 This project aims to uncover key tourism insights: 
-- top source markets
-- growth trends
-- market concentration
-- peak/low seasons. 
+- Top Source Markets
+- Growth Trends
+- Market Concentration
+- Peak and Low Seasons
 
 ## <br>Dataset
 - table name: `tourist`
