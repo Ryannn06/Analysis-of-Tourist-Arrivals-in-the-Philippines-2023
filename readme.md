@@ -1,15 +1,32 @@
 # Analysis of Tourist Arrivals in the Philippines, 2023
 
+## <br>Table of Content
+- [Analysis of Tourist Arrivals in the Philippines, 2023](#analysis-of-tourist-arrivals-in-the-philippines-2023)
+  - [Table of Content](#table-of-content)
+  - [Project Overview](#project-overview)
+  - [Objectives](#objectives)
+  - [Dataset](#dataset)
+  - [Key Findings](#key-findings)
+  - [Sample Queries](#sample-queries)
+    - [SQL Queries](#sql-queries)
+  - [Tools \& Technologies](#tools--technologies)
+  - [License](#license)
+
+
 ## <br>Project Overview
-This project explores international visitor arrivals data by country of residence (January – October).
+This project analyzes international visitor arrivals to the Philippines from **January to October 2023**, using official data by country of residence from the Department of Tourism.
 
 ## <br>Objectives
-This project aims to uncover key tourism insights: top source markets, seasonality patterns, growth trends, market concentration, and peak/low seasons. 
+This project aims to uncover key tourism insights: 
+- top source markets
+- growth trends
+- market concentration
+- peak/low seasons. 
 
 ## <br>Dataset
 - table name: `tourist`
 - key columns: `country`, `january`, `february`,...,`october`, `total`
-- dataset source: [data.gov.ph]('https://data.gov.ph/index/public/dataset/Tourism%20Demand%20Statistics%20on%20Visitor%20Arrivals%20to%20the%20Philippines/pqj5mu1b-5tsg-7dcb-oj3y-s1jcu1ys2h3a')
+- dataset source: [data.gov.ph](https://data.gov.ph/index/public/dataset/Tourism%20Demand%20Statistics%20on%20Visitor%20Arrivals%20to%20the%20Philippines/pqj5mu1b-5tsg-7dcb-oj3y-s1jcu1ys2h3a)
 
 ## <br>Key Findings
 - **Peak season** ran from **January to April**, recording the highest monthly arrivals.
